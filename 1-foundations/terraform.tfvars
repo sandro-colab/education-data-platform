@@ -1,0 +1,6 @@
+prefix              = "colab-edp"
+folder_id           = "folders/506497427480"
+billing_account_id  = "01FF97-5207B0-A3F37C"
+organization_domain = "colaborativaeduc.com.br"
+location            = "us"
+region              = "us-central1"
