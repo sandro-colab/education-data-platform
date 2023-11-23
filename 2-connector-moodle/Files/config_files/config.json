@@ -3,7 +3,7 @@
   "project_id_bq": "edp-03-dwh-lnd",
   "prj_id_bq_cur": "edp-03-dwh-cur",
   "dataset_name": "moodle",
-  "dts_nm_cur": "moodle-cur",
+  "dts_nm_cur": "moodle_cur",
   "location": "us",
   "region": "us-west1",
   "url_template": "gs://dataflow-templates-{0}/latest/Jdbc_to_BigQuery",
