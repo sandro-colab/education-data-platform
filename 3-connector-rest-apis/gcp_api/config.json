@@ -1,10 +1,10 @@
 {
-    "project_id": "{your-prefix}-drp",
-    "bucket": "{your-prefix}-drp-cs-0",
+    "project_id": "edp-03-drp",
+    "bucket": "edp-03-drp-cs-0",
     "api_path": "pipeline_api",
-    "location": "your-location",
-    "region": "your-gcp-region",
-    "api_uri": "https://{your-region}-{your-edp-prefix}-drp.cloudfunctions.net/{your-function-prefix}",
+    "location": "us",
+    "region": "us-west1",
+    "api_uri": "https://us-west1-edp-03-drp.cloudfunctions.net/api",
     "endpoints": [
         {
             "url":"https://your-api-endpoint-1",
@@ -22,7 +22,7 @@
             "blob": "{your-api-folder}/load"
         }
     ],
-    "project_id_bq": "{your-prefix}-dwh-lnd",
-    "dataset_name": "your-dataset-name-for-api-ingestion",
+    "project_id_bq": "edp-03-dwh-lnd",
+    "dataset_name": "api_raw",
     "retention_data": "172800"
 }
