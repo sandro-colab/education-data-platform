@@ -1,215 +1,215 @@
 [
   {
     "name": "id",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "auth",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "confirmed",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "policyagreed",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "deleted",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "suspended",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "mnethostid",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "username",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "password",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "idnumber",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "firstname",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "lastname",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "email",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "emailstop",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "icq",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "skype",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "yahoo",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "aim",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "msn",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "phone1",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "phone2",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "institution",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "department",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "address",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "city",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "country",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "lang",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "calendartype",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "theme",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "timezone",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "firstaccess",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "lastaccess",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "lastlogin",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "currentlogin",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "lastip",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "secret",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "picture",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "url",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "description",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "descriptionformat",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "mailformat",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "maildigest",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "maildisplay",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "autosubscribe",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "trackforums",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "timecreated",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "timemodified",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "trustbitmask",
-    "type": "INTEGER "
+    "type": "INTEGER"
   },
   {
     "name": "imagealt",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "lastnamephonetic",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "firstnamephonetic",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "middlename",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "alternatename",
-    "type": "STRING "
+    "type": "STRING"
   },
   {
     "name": "moodlenetprofile",
